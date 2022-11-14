@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/rnk/clientlibs"/>
+    <filter root="/apps/rnk/components"/>
+    <filter root="/apps/rnk/i18n"/>
+</workspaceFilter>
